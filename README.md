@@ -14,6 +14,7 @@ We have collected data from different sources as mentioned below:-
 
 City of Chicago crime data:
  https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2
+
 City of Chicago socioeconomic data:
  https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
  
